@@ -1,0 +1,8 @@
+asteroid.models.conv\_tasnet module
+===================================
+
+.. automodule:: asteroid.models.conv_tasnet
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

@@ -1,0 +1,8 @@
+asteroid.data.dns\_dataset module
+=================================
+
+.. automodule:: asteroid.data.dns_dataset
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

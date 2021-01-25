@@ -1,0 +1,8 @@
+asteroid.data.kinect\_wsj module
+================================
+
+.. automodule:: asteroid.data.kinect_wsj
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

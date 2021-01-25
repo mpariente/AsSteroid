@@ -1,0 +1,8 @@
+asteroid.models.publisher module
+================================
+
+.. automodule:: asteroid.models.publisher
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

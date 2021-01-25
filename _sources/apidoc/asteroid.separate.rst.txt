@@ -1,0 +1,8 @@
+asteroid.separate module
+========================
+
+.. automodule:: asteroid.separate
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

@@ -1,0 +1,8 @@
+asteroid.data.fuss\_dataset module
+==================================
+
+.. automodule:: asteroid.data.fuss_dataset
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

@@ -1,0 +1,8 @@
+asteroid.masknn.attention module
+================================
+
+.. automodule:: asteroid.masknn.attention
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

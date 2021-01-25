@@ -1,0 +1,8 @@
+asteroid.scripts.asteroid\_cli module
+=====================================
+
+.. automodule:: asteroid.scripts.asteroid_cli
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

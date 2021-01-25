@@ -1,0 +1,8 @@
+asteroid.metrics module
+=======================
+
+.. automodule:: asteroid.metrics
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

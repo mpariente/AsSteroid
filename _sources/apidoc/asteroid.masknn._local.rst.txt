@@ -1,0 +1,8 @@
+asteroid.masknn.\_local module
+==============================
+
+.. automodule:: asteroid.masknn._local
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

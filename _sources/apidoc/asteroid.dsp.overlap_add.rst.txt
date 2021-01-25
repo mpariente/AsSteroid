@@ -1,0 +1,8 @@
+asteroid.dsp.overlap\_add module
+================================
+
+.. automodule:: asteroid.dsp.overlap_add
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

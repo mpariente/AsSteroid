@@ -1,0 +1,8 @@
+asteroid.filterbanks.analytic\_free\_fb module
+==============================================
+
+.. automodule:: asteroid.filterbanks.analytic_free_fb
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

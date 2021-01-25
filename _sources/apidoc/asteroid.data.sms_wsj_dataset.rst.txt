@@ -1,0 +1,8 @@
+asteroid.data.sms\_wsj\_dataset module
+======================================
+
+.. automodule:: asteroid.data.sms_wsj_dataset
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

@@ -1,0 +1,8 @@
+asteroid.losses.mse module
+==========================
+
+.. automodule:: asteroid.losses.mse
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

@@ -1,0 +1,8 @@
+asteroid.models.demask module
+=============================
+
+.. automodule:: asteroid.models.demask
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

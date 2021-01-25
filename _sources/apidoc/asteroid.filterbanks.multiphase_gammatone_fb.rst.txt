@@ -1,0 +1,8 @@
+asteroid.filterbanks.multiphase\_gammatone\_fb module
+=====================================================
+
+.. automodule:: asteroid.filterbanks.multiphase_gammatone_fb
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

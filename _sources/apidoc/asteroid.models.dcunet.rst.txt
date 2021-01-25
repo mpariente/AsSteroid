@@ -1,0 +1,8 @@
+asteroid.models.dcunet module
+=============================
+
+.. automodule:: asteroid.models.dcunet
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

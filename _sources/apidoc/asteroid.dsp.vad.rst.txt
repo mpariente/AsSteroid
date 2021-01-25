@@ -1,0 +1,8 @@
+asteroid.dsp.vad module
+=======================
+
+.. automodule:: asteroid.dsp.vad
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

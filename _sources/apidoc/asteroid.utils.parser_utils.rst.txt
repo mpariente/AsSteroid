@@ -1,0 +1,8 @@
+asteroid.utils.parser\_utils module
+===================================
+
+.. automodule:: asteroid.utils.parser_utils
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

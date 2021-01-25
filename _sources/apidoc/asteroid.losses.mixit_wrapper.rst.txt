@@ -1,0 +1,8 @@
+asteroid.losses.mixit\_wrapper module
+=====================================
+
+.. automodule:: asteroid.losses.mixit_wrapper
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

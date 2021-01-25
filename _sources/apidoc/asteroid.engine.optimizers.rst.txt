@@ -1,0 +1,8 @@
+asteroid.engine.optimizers module
+=================================
+
+.. automodule:: asteroid.engine.optimizers
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

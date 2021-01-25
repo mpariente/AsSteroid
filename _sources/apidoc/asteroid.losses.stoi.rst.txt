@@ -1,0 +1,8 @@
+asteroid.losses.stoi module
+===========================
+
+.. automodule:: asteroid.losses.stoi
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

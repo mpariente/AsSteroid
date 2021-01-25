@@ -1,0 +1,23 @@
+asteroid.filterbanks package
+============================
+
+.. automodule:: asteroid.filterbanks
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:
+
+Submodules
+----------
+
+.. toctree::
+
+   asteroid.filterbanks.analytic_free_fb
+   asteroid.filterbanks.enc_dec
+   asteroid.filterbanks.free_fb
+   asteroid.filterbanks.griffin_lim
+   asteroid.filterbanks.melgram_fb
+   asteroid.filterbanks.multiphase_gammatone_fb
+   asteroid.filterbanks.param_sinc_fb
+   asteroid.filterbanks.stft_fb
+   asteroid.filterbanks.transforms

@@ -1,0 +1,8 @@
+asteroid.models.zenodo module
+=============================
+
+.. automodule:: asteroid.models.zenodo
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

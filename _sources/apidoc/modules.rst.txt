@@ -1,0 +1,7 @@
+asteroid
+========
+
+.. toctree::
+   :maxdepth: 4
+
+   asteroid

@@ -1,0 +1,8 @@
+asteroid.models.base\_models module
+===================================
+
+.. automodule:: asteroid.models.base_models
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

@@ -1,0 +1,8 @@
+asteroid.data.musdb18\_dataset module
+=====================================
+
+.. automodule:: asteroid.data.musdb18_dataset
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

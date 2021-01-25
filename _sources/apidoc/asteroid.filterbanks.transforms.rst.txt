@@ -1,0 +1,8 @@
+asteroid.filterbanks.transforms module
+======================================
+
+.. automodule:: asteroid.filterbanks.transforms
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

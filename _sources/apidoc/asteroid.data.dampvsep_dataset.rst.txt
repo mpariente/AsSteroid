@@ -1,0 +1,8 @@
+asteroid.data.dampvsep\_dataset module
+======================================
+
+.. automodule:: asteroid.data.dampvsep_dataset
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

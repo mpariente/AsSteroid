@@ -1,0 +1,8 @@
+asteroid.losses.pit\_wrapper module
+===================================
+
+.. automodule:: asteroid.losses.pit_wrapper
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

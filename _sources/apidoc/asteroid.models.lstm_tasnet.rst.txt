@@ -1,0 +1,8 @@
+asteroid.models.lstm\_tasnet module
+===================================
+
+.. automodule:: asteroid.models.lstm_tasnet
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

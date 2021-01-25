@@ -1,0 +1,8 @@
+asteroid.data.wham\_dataset module
+==================================
+
+.. automodule:: asteroid.data.wham_dataset
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

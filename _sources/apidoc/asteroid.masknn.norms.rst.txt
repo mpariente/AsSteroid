@@ -1,0 +1,8 @@
+asteroid.masknn.norms module
+============================
+
+.. automodule:: asteroid.masknn.norms
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

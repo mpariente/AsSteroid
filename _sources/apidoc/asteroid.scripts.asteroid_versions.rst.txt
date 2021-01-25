@@ -1,0 +1,8 @@
+asteroid.scripts.asteroid\_versions module
+==========================================
+
+.. automodule:: asteroid.scripts.asteroid_versions
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

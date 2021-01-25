@@ -1,0 +1,8 @@
+asteroid.models.dptnet module
+=============================
+
+.. automodule:: asteroid.models.dptnet
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

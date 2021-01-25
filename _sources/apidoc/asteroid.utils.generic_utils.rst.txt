@@ -1,0 +1,8 @@
+asteroid.utils.generic\_utils module
+====================================
+
+.. automodule:: asteroid.utils.generic_utils
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

@@ -1,0 +1,8 @@
+asteroid.losses.sinkpit\_wrapper module
+=======================================
+
+.. automodule:: asteroid.losses.sinkpit_wrapper
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

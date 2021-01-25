@@ -1,0 +1,8 @@
+asteroid.models.sudormrf module
+===============================
+
+.. automodule:: asteroid.models.sudormrf
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

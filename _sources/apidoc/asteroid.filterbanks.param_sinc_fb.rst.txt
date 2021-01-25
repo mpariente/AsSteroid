@@ -1,0 +1,8 @@
+asteroid.filterbanks.param\_sinc\_fb module
+===========================================
+
+.. automodule:: asteroid.filterbanks.param_sinc_fb
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

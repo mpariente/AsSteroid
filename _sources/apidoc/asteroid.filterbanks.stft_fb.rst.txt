@@ -1,0 +1,8 @@
+asteroid.filterbanks.stft\_fb module
+====================================
+
+.. automodule:: asteroid.filterbanks.stft_fb
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

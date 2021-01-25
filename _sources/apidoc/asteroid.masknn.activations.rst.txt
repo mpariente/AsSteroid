@@ -1,0 +1,8 @@
+asteroid.masknn.activations module
+==================================
+
+.. automodule:: asteroid.masknn.activations
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

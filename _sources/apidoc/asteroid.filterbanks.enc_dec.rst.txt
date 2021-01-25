@@ -1,0 +1,8 @@
+asteroid.filterbanks.enc\_dec module
+====================================
+
+.. automodule:: asteroid.filterbanks.enc_dec
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

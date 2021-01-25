@@ -1,0 +1,23 @@
+asteroid.masknn package
+=======================
+
+.. automodule:: asteroid.masknn
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:
+
+Submodules
+----------
+
+.. toctree::
+
+   asteroid.masknn._dccrn_architectures
+   asteroid.masknn._dcunet_architectures
+   asteroid.masknn._local
+   asteroid.masknn.activations
+   asteroid.masknn.attention
+   asteroid.masknn.base
+   asteroid.masknn.convolutional
+   asteroid.masknn.norms
+   asteroid.masknn.recurrent

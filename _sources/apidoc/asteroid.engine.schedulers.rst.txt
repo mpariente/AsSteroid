@@ -1,0 +1,8 @@
+asteroid.engine.schedulers module
+=================================
+
+.. automodule:: asteroid.engine.schedulers
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

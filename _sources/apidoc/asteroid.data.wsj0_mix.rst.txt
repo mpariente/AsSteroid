@@ -1,0 +1,8 @@
+asteroid.data.wsj0\_mix module
+==============================
+
+.. automodule:: asteroid.data.wsj0_mix
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

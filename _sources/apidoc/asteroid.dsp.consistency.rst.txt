@@ -1,0 +1,8 @@
+asteroid.dsp.consistency module
+===============================
+
+.. automodule:: asteroid.dsp.consistency
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

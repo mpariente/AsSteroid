@@ -1,0 +1,8 @@
+asteroid.masknn.convolutional module
+====================================
+
+.. automodule:: asteroid.masknn.convolutional
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

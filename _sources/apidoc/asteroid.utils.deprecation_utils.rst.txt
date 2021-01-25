@@ -1,0 +1,8 @@
+asteroid.utils.deprecation\_utils module
+========================================
+
+.. automodule:: asteroid.utils.deprecation_utils
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

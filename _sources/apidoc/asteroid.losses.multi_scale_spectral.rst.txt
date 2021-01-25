@@ -1,0 +1,8 @@
+asteroid.losses.multi\_scale\_spectral module
+=============================================
+
+.. automodule:: asteroid.losses.multi_scale_spectral
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

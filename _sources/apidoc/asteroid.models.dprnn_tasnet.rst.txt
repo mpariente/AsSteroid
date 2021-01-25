@@ -1,0 +1,8 @@
+asteroid.models.dprnn\_tasnet module
+====================================
+
+.. automodule:: asteroid.models.dprnn_tasnet
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

@@ -1,0 +1,8 @@
+asteroid.masknn.\_dccrn\_architectures module
+=============================================
+
+.. automodule:: asteroid.masknn._dccrn_architectures
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

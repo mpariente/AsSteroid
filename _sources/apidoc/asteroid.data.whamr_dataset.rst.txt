@@ -1,0 +1,8 @@
+asteroid.data.whamr\_dataset module
+===================================
+
+.. automodule:: asteroid.data.whamr_dataset
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

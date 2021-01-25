@@ -1,0 +1,8 @@
+asteroid.dsp.deltas module
+==========================
+
+.. automodule:: asteroid.dsp.deltas
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

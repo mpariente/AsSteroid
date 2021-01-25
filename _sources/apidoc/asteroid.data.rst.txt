@@ -1,0 +1,26 @@
+asteroid.data package
+=====================
+
+.. automodule:: asteroid.data
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:
+
+Submodules
+----------
+
+.. toctree::
+
+   asteroid.data.avspeech_dataset
+   asteroid.data.dampvsep_dataset
+   asteroid.data.dns_dataset
+   asteroid.data.fuss_dataset
+   asteroid.data.kinect_wsj
+   asteroid.data.librimix_dataset
+   asteroid.data.musdb18_dataset
+   asteroid.data.sms_wsj_dataset
+   asteroid.data.utils
+   asteroid.data.wham_dataset
+   asteroid.data.whamr_dataset
+   asteroid.data.wsj0_mix

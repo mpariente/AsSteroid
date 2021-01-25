@@ -1,0 +1,8 @@
+asteroid.data.avspeech\_dataset module
+======================================
+
+.. automodule:: asteroid.data.avspeech_dataset
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:

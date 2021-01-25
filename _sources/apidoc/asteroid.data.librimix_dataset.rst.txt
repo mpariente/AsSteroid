@@ -1,0 +1,8 @@
+asteroid.data.librimix\_dataset module
+======================================
+
+.. automodule:: asteroid.data.librimix_dataset
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:
